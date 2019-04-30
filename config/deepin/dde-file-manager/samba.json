@@ -1,0 +1,11 @@
+{
+    "smb://mgiap063/datos$": {
+        "GAskPasswordFlags": 31,
+        "anonymous": false,
+        "domain": "mgapps",
+        "id": "smb://mgiap063/datos$",
+        "message": "Se requiere contraseña p…ición datos$ en mgiap063",
+        "passwordSave": 2,
+        "username": "wherrera"
+    }
+}

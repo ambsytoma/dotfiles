@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu>
+	<menu id="root-menu" label="OpenBox 3">
+		<menu id="6" label="Graphics">
+			<item label="GNU Image Manipulation Program">
+				<action name="Execute">
+					<execute>gimp-2.8</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="7" label="Multimedia">
+			<item label="ALSA mixer">
+				<action name="Execute">
+					<execute>xterm -e alsamixer</execute>
+				</action>
+			</item>
+			<item label="guvcview">
+				<action name="Execute">
+					<execute>guvcview</execute>
+				</action>
+			</item>
+			<item label="VLC media player">
+				<action name="Execute">
+					<execute>vlc</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="5" label="Network">
+			<item label="Chrome">
+				<action name="Execute">
+					<execute>google-chrome</execute>
+				</action>
+			</item>
+			<item label="Firefox">
+				<action name="Execute">
+					<execute>firefox</execute>
+				</action>
+			</item>
+			<item label="Deluge">
+				<action name="Execute">
+					<execute>deluge-gtk</execute>
+				</action>
+			</item>
+			<item label="Pidgin Internet Messenger">
+				<action name="Execute">
+					<execute>pidgin</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="3" label="Office">
+			<item label="LibreOffice Impress">
+				<action name="Execute">
+					<execute>libreoffice</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="19" label="Shells">
+			<item label="Terminal">
+				<action name="Execute">
+					<execute>terminator</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="37" label="System">
+			<menu id="36" label="Settings">
+				<item label="Customize Look and Feel">
+					<action name="Execute">
+						<execute>lxappearance</execute>
+					</action>
+				</item>
+				<item label="File Manager">
+					<action name="Execute">
+						<execute>thunar-settings</execute>
+					</action>
+				</item>
+				<item label="Panel tint2">
+					<action name="Execute">
+						<execute>tint2conf</execute>
+					</action>
+				</item>
+				<item label="Preferred Applications">
+					<action name="Execute">
+						<execute>exo-preferred-applications</execute>
+					</action>
+				</item>
+				<item label="Removable Drives and Media">
+					<action name="Execute">
+						<execute>thunar-volman-settings</execute>
+					</action>
+				</item>
+				<item label="Search and Indexing">
+					<action name="Execute">
+						<execute>tracker-preferences</execute>
+					</action>
+				</item>
+			</menu>
+			<item label="Disk Usage Analyzer">
+				<action name="Execute">
+					<execute>baobab</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="38" label="Utilities">
+			<item label="Character Map">
+				<action name="Execute">
+					<execute>gucharmap</execute>
+				</action>
+			</item>
+			<item label="Help">
+				<action name="Execute">
+					<execute>yelp</execute>
+				</action>
+			</item>
+			<item label="Xrefresh">
+				<action name="Execute">
+					<execute>xrefresh</execute>
+				</action>
+			</item>
+			<item label="Xsetroot">
+				<action name="Execute">
+					<execute>xsetroot</execute>
+				</action>
+			</item>
+		</menu>
+		<separator/>
+		<menu id="40" label="OpenBox">
+			<menu id="client-list-menu"/>
+			<item label="Reconfigure">
+				<action name="Reconfigure"/>
+			</item>
+			<separator/>
+			<item label="Exit">
+				<action name="Exit"/>
+			</item>
+		</menu>
+	</menu>
+</openbox_menu>

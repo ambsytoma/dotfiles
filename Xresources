@@ -1,0 +1,93 @@
+URxvt*font: xft:Bitstream Vera Sans Mono:pixelsize=16:antialias=true
+!colors bitches
+
+URxvt.background: #232323
+!URxvt.foreground: #A0A0A0
+URxvt.foreground: #A3D572
+
+URxvt.colorBD:    #CFCFCF
+URxvt.colorUL:    #A0A0A0
+URxvt.colorIT:    #686868
+
+!BLK
+URxvt.color0:     #303030
+URxvt.color8:     #686868
+
+!RED
+URxvt.color9:     #FFA7DA
+URxvt.color1:     #D370A3
+
+!GRN
+URxvt.color10:    #A3D572
+URxvt.color2:     #6D9E3F
+
+!BLU
+URxvt.color12:    #98CBFE
+URxvt.color4:     #6095C5
+
+!YEL
+URxvt.color11:    #EFBD8B
+URxvt.color3:     #B58858
+
+!CYN
+URxvt.color14:    #75DAA9
+URxvt.color6:     #3BA275
+
+!MAG
+URxvt.color13:    #E5B0FF
+URxvt.color5:     #AC7BDE
+
+!WHT
+URxvt.color7:     #CFCFCF
+URxvt.color15:    #FFFFFF
+
+!--------------------------------------------------
+	
+!This file asks for the "lime" font, found in the "artwiz-fonts" package.
+
+
+URxvt.urlLauncher:              /usr/bin/chromium
+1URxvt.matcher.button:           1
+
+!URxvt.borderColor:      #333631
+!URxvt.internalBorder:   0
+
+URxvt*underlineColor: 		#333333
+
+URxvt*highlightColor: 		#ffffff
+URxvt*highlightTextColor: 	#000000
+
+URxvt*cursorColor: 		#ffffff
+URxvt*cursorColor2: 		#ffffff
+
+
+
+!URxvt.font: 			xft:lime:pixelsize=20
+!URxvt.boldFont: 		xft:lime:pixelsize=20
+
+URxvt*buffered: 		true
+
+URxvt*cursorBlink: 		true
+URxvt*cursorUnderline: 		false
+
+!URxvt*geometry: 		113x34
+
+!URxvt*reverseVideo: 		false
+
+URxvt*depth: 			32
+URxvt*background:		rgba:0000/0000/0200/c800
+!URxvt*transparent:		true
+!URxvt*shading:			15
+
+URxvt*scrollBar: 		false
+URxvt*scrollBar_right: 		false
+!URxvt*scrollstyle: 		plain
+!URxvt*scrollColor: 		#2873a2
+!URxvt*scrollWithBuffer: 	false
+!URxvt*scrollTtyOutput: 		true
+
+URxvt*urgentOnBell: 		true
+URxvt*visualBell: 		false
+
+URxvt*pointerBlank: 		true
+

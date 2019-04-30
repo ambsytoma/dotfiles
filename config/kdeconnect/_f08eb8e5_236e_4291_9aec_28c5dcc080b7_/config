@@ -1,0 +1,9 @@
+[Plugins]
+kdeconnect_clipboardEnabled=true
+kdeconnect_mousepadEnabled=true
+kdeconnect_notificationsEnabled=true
+kdeconnect_pingEnabled=true
+kdeconnect_remotekeyboardEnabled=true
+kdeconnect_screensaver_inhibitEnabled=false
+kdeconnect_sendnotificationsEnabled=false
+kdeconnect_shareEnabled=true

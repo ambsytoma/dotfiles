@@ -1,0 +1,6 @@
+# GIMP gimp-rotate-tool options
+
+(background (color-rgb 1.000000 0.670588 0.862745))
+(interpolation linear)
+
+# end of gimp-rotate-tool options

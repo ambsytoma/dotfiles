@@ -1,0 +1,15 @@
+# GIMP user context
+
+(tool "gimp-rect-select-tool")
+(paint-info "gimp-paintbrush")
+(foreground (color-rgb 0.349020 0.937255 0.929412))
+(background (color-rgb 1.000000 0.670588 0.862745))
+(brush "2. Hardness 100")
+(dynamics "Dynamics Off")
+(mybrush "Standard")
+(pattern "Pine")
+(gradient "Frente a fondo (RGB)")
+(palette "Histórico de color")
+(font "Sans-serif")
+
+# end of user context

@@ -1,0 +1,40 @@
+# settings
+
+(GimpGegl-gegl-color-temperature-config "2018-10-24 16:02:19"
+    (time 1540407739)
+    (original-temperature 3924.100000)
+    (intended-temperature 5142.400000))
+(GimpGegl-gegl-color-temperature-config "2018-10-24 13:45:46"
+    (time 1540399546)
+    (original-temperature 5212.000000)
+    (intended-temperature 6256.300000))
+(GimpGegl-gegl-color-temperature-config "2018-10-24 13:29:07"
+    (time 1540398547)
+    (original-temperature 6047.500000)
+    (intended-temperature 5803.800000))
+(GimpGegl-gegl-color-temperature-config "2018-10-24 11:32:28"
+    (time 1540391548)
+    (original-temperature 3854.400000)
+    (intended-temperature 7091.800000))
+(GimpGegl-gegl-color-temperature-config "2018-10-24 10:45:29"
+    (time 1540388729)
+    (original-temperature 3436.700000)
+    (intended-temperature 9180.400000))
+(GimpGegl-gegl-color-temperature-config "2018-10-24 10:33:56"
+    (time 1540388036)
+    (original-temperature 5212.000000)
+    (intended-temperature 7753.200000))
+(GimpGegl-gegl-color-temperature-config "2018-10-24 10:32:25"
+    (time 1540387945)
+    (original-temperature 3575.900000)
+    (intended-temperature 6047.500000))
+(GimpGegl-gegl-color-temperature-config "2018-10-24 10:31:59"
+    (time 1540387919)
+    (original-temperature 4759.500000)
+    (intended-temperature 8519.000000))
+(GimpGegl-gegl-color-temperature-config "2018-10-20 22:31:13"
+    (time 1540085473)
+    (original-temperature 1835.400000)
+    (intended-temperature 5970.900000))
+
+# end of settings

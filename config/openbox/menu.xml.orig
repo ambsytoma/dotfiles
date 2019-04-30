@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu>
+	<menu id="root-menu" label="OpenBox 3">
+		<menu id="6" label="Graphics">
+			<item label="GNU Image Manipulation Program">
+				<action name="Execute">
+					<execute>gimp-2.8</execute>
+				</action>
+			</item>
+			<item label="The GIMP">
+				<action name="Execute">
+					<execute>gimp</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="7" label="Multimedia">
+			<item label="ALSA mixer">
+				<action name="Execute">
+					<execute>xterm -e alsamixer</execute>
+				</action>
+			</item>
+			<item label="Banshee Media Player">
+				<action name="Execute">
+					<execute>banshee --redirect-log</execute>
+				</action>
+			</item>
+			<item label="Cheese">
+				<action name="Execute">
+					<execute>cheese</execute>
+				</action>
+			</item>
+			<item label="guvcview">
+				<action name="Execute">
+					<execute>guvcview</execute>
+				</action>
+			</item>
+			<item label="VLC media player">
+				<action name="Execute">
+					<execute>vlc</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="5" label="Network">
+			<item label="Chromium">
+				<action name="Execute">
+					<execute>chromium</execute>
+				</action>
+			</item>
+			<item label="Deluge">
+				<action name="Execute">
+					<execute>deluge-gtk</execute>
+				</action>
+			</item>
+			<item label="Pidgin Internet Messenger">
+				<action name="Execute">
+					<execute>pidgin</execute>
+				</action>
+			</item>
+			<item label="Thunderbird">
+				<action name="Execute">
+					<execute>thunderbird</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="3" label="Office">
+			<item label="Document Viewer">
+				<action name="Execute">
+					<execute>evince</execute>
+				</action>
+			</item>
+			<item label="LibreOffice Impress">
+				<action name="Execute">
+					<execute>libreoffice</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="39" label="Other">
+			<item label="compton">
+				<action name="Execute">
+					<execute>compton</execute>
+				</action>
+			</item>
+			<item label="IBus Preferences">
+				<action name="Execute">
+					<execute>ibus-setup</execute>
+				</action>
+			</item>
+			<item label="QT V4L2 test Utility">
+				<action name="Execute">
+					<execute>qv4l2</execute>
+				</action>
+			</item>
+			<item label="Wicd">
+				<action name="Execute">
+					<execute>wicd-client</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="4" label="Science">
+			<item label="bc">
+				<action name="Execute">
+					<execute>xterm -e bc</execute>
+				</action>
+			</item>
+			<item label="dc">
+				<action name="Execute">
+					<execute>xterm -e dc</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="19" label="Shells">
+			<item label="Oracle VM VirtualBox">
+				<action name="Execute">
+					<execute>VirtualBox</execute>
+				</action>
+			</item>
+			<item label="Terminal">
+				<action name="Execute">
+					<execute>lxterminal</execute>
+				</action>
+			</item>
+			<item label="Thunar File Manager">
+				<action name="Execute">
+					<execute>thunar</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="37" label="System">
+			<menu id="36" label="Settings">
+				<item label="Customize Look and Feel">
+					<action name="Execute">
+						<execute>lxappearance</execute>
+					</action>
+				</item>
+				<item label="File Manager">
+					<action name="Execute">
+						<execute>thunar-settings</execute>
+					</action>
+				</item>
+				<item label="Panel tint2">
+					<action name="Execute">
+						<execute>tint2conf</execute>
+					</action>
+				</item>
+				<item label="Preferred Applications">
+					<action name="Execute">
+						<execute>exo-preferred-applications</execute>
+					</action>
+				</item>
+				<item label="Removable Drives and Media">
+					<action name="Execute">
+						<execute>thunar-volman-settings</execute>
+					</action>
+				</item>
+				<item label="Search and Indexing">
+					<action name="Execute">
+						<execute>tracker-preferences</execute>
+					</action>
+				</item>
+			</menu>
+			<item label="Disk Usage Analyzer">
+				<action name="Execute">
+					<execute>baobab</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="38" label="Utilities">
+			<item label="Character Map">
+				<action name="Execute">
+					<execute>gucharmap</execute>
+				</action>
+			</item>
+			<item label="Help">
+				<action name="Execute">
+					<execute>yelp</execute>
+				</action>
+			</item>
+			<item label="Xrefresh">
+				<action name="Execute">
+					<execute>xrefresh</execute>
+				</action>
+			</item>
+			<item label="Xsetroot">
+				<action name="Execute">
+					<execute>xsetroot</execute>
+				</action>
+			</item>
+		</menu>
+		<separator/>
+		<menu id="40" label="OpenBox">
+			<menu id="client-list-menu"/>
+			<item label="Reconfigure">
+				<action name="Reconfigure"/>
+			</item>
+			<separator/>
+			<item label="Exit">
+				<action name="Exit"/>
+			</item>
+		</menu>
+	</menu>
+</openbox_menu>

@@ -1,0 +1,10 @@
+[2019:03:01:15:04:15:751903 WARNING] Failed to find pie configuration file "pies.conf"! (This should only happen when Gnome-Pie is started for the first time...)
+[2019:03:01:15:04:15:751991 WARNING] Failed to find settings file "gnome-pie.conf"! (This should only happen when Gnome-Pie is started for the first time...)
+[2019:03:01:15:04:15:752880 MESSAGE] Welcome to Gnome-Pie 0.7.1!
+[2019:03:01:15:04:15:753438 MESSAGE] Creating new configuration file in "/home/wherrera/.config/gnome-pie/pies.conf".
+[2019:03:01:15:04:15:774143 WARNING] Failed to look up menu_file for "applications.menu"
+[2019:03:01:15:04:15:776394 MESSAGE] Saving Pies to "/home/wherrera/.config/gnome-pie/pies.conf".
+[2019:03:01:15:04:16:123656 WARNING] Error loading settings: gnome-pie.conf not found! Using defaults...
+[2019:03:01:15:04:16:130668 WARNING] No theme specified! Using default...
+[2019:03:01:15:04:16:142886 MESSAGE] Started happily...
+[2019:03:01:15:04:31:459155 MESSAGE] Caught signal (2), bye!

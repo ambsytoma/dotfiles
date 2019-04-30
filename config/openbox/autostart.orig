@@ -1,0 +1,55 @@
+#
+# These things are run when an Openbox X Session is started.
+# You may place a similar script in $HOME/.config/openbox/autostart
+# to run user-specific things.
+#
+
+# If you want to use GNOME config tools...
+#
+#if test -x /usr/lib/openbox/gnome-settings-daemon >/dev/null; then
+#  /usr/lib/openbox/gnome-settings-daemon &
+#elif which gnome-settings-daemon >/dev/null 2>&1; then
+#  gnome-settings-daemon &
+#fi
+
+# If you want to use XFCE config tools...
+#
+#xfce-mcs-manager &
+#ob-autostart -d &
+(sleep 1 && nitrogen --restore) &
+(sleep 2 && tint2) &
+(sleep 2 && terminator) &
+#(sleep 2 && wbar) &
+(sleep 4 && plank) &
+#teclado
+
+#setxkbmap "latam" -model evdev &
+#setxkbmap "es"
+
+
+(sleep 3 && thunar --daemon) &
+
+#transparencias con xcompmgr
+#xcompmgr &
+
+
+# configuracion de transparencias
+compton -C -i 0.6 -e 0.6 -fF -I 0.065 -O 0.065 -D 6 -m 0.8 &
+#/usr/bin/compton --config /home/ambystoma/.config/compton.conf &
+#(sleep 2 xcompmgr) &
+
+
+
+#conky configuration
+#conky -c ~/.Conky/HGM-Hudnet/conkyrc_HUD &
+#/home/ambystoma/.config/conky/conky_black_pearl/startup.sh &
+
+## byobu como terminal
+#byobu
+
+## mato plank!!!
+
+#killall plank
+
+#/home/ambystoma/.config/conky/conky_black_pearl/startup.sh &
+/home/ambystoma/conkys/conkyrings/startconky.sh &

@@ -1,0 +1,16 @@
+VirtualBox GUI VM Selector Window 5.2.12_Debian r122571 linux.amd64 (May 25 2018 06:45:05) release log
+00:00:00.410198 Log opened 2019-01-19T23:37:44.566594000Z
+00:00:00.410199 Build Type: release
+00:00:00.410204 OS Product: Linux
+00:00:00.410205 OS Release: 4.15.0-29deepin-generic
+00:00:00.410206 OS Version: #31 SMP Fri Jul 27 07:12:08 UTC 2018
+00:00:00.410290 DMI Product Name: Latitude 7480
+00:00:00.410313 DMI Product Version: 
+00:00:00.410425 Host RAM: 7596MB (7.4GB) total, 6031MB (5.8GB) available
+00:00:00.410433 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.410435 Process ID: 5642
+00:00:00.410435 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.410531 Qt version: 5.10.1
+00:00:00.462764 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.462781 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.610665 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1366x727

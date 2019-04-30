@@ -1,0 +1,12 @@
+# GIMP gimp-pencil-tool options
+
+(foreground (color-rgb 1.000000 1.000000 1.000000))
+(background (color-rgb 1.000000 0.670588 0.862745))
+(brush "2. Hardness 100")
+(dynamics "Dynamics Off")
+(gradient "Frente a fondo (RGB)")
+(palette "Histórico de color")
+(brush-size 51.000000)
+(brush-hardness 0.500000)
+
+# end of gimp-pencil-tool options

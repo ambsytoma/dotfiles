@@ -1,0 +1,8 @@
+# GIMP gimp-gradient-tool options
+
+(foreground (color-rgb 0.984314 0.843137 0.733333))
+(gradient "Frente a fondo (RGB)")
+(brush-size 51.000000)
+(brush-hardness 0.500000)
+
+# end of gimp-gradient-tool options

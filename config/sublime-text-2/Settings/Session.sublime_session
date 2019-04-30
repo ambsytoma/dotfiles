@@ -1,0 +1,547 @@
+{
+	"folder_history":
+	[
+	],
+	"last_window_id": 1,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "infraestructura virtual:\n\nllevar vmware a 6.7, para ello:\n\nactualizar vm version y vmware tools, atacar por grupo de versiones, arrancar con las mas nuevas y pasar a las viejas.\n\nprimer cluster atacar: DBX, cuando lleguen los cluster nuevos de DBX --> la idea es tenerlos a 6.7, por lo tanto vcenter a 6.7, con la bbdd junto.\n\n",
+					"settings":
+					{
+						"buffer_size": 327,
+						"line_ending": "Unix",
+						"name": "infraestructura virtual:"
+					}
+				},
+				{
+					"file": "/home/wherrera/Documents/metrogas/procedimientos/crear_fs_hpux",
+					"settings":
+					{
+						"buffer_size": 1119,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "P43XnPeq+Mt  ",
+					"settings":
+					{
+						"buffer_size": 13,
+						"line_ending": "Unix",
+						"name": "P43XnPeq+Mt"
+					}
+				},
+				{
+					"file": "/home/wherrera/Documents/metrogas/proyectos/guarda de aplicaciones/guarda_de_aplicaciones.txt",
+					"settings":
+					{
+						"buffer_size": 5623,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/wherrera/Documents/metrogas/proyectos/guarda de aplicaciones/Log_Guarda_de_Aplicaciones.txt",
+					"settings":
+					{
+						"buffer_size": 6869,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/run/user/1001/gvfs/smb-share:server=cerebellum,share=wherrera/temporal/tilo.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/wherrera/Downloads/deliverystatus.txt",
+					"settings":
+					{
+						"buffer_size": 400,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/wherrera/Documents/metrogas/procedimientos/bajar_levantar_MGDAP013.txt",
+					"settings":
+					{
+						"buffer_size": 885,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/wherrera/Documents/metrogas/procedimientos/vmtools.txt",
+					"settings":
+					{
+						"buffer_size": 507,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/wherrera/Downloads/job_31.txt",
+					"settings":
+					{
+						"buffer_size": 176963,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "--------------------------\nI N S T R U C C I O N E S \n--------------------------\n\n- Instalar el programa, no iniciar. Se recomienda dejar la ruta de instalación por defecto.\n\n- Ejecutar el Keygen (Sony.Products.Multikeygen.v2.7.Keygen.Only-DI), luego de instalar el programa.\n\n (recordad en vista/seven ejecutar como administrador, tambien puede desactivar el UAC, inicio -> Panel de Control -> Cuentas de usuario y protección infantil -> Cuentas de usuario -> Activar o desactivar el Control de cuentas de usuario, y desmarcamos la casilla \"Usar el Control de cuentas de usuario (UAC) para ayudar a proteger el equipo\")\n\n\n- Seleccione el producto, en este caso \"Vegas Pro 13.0 (64 Bits) Series\" (la versión 13 solo funciona en 64 bits).\n\n\n- Presione el botón \"Patch\" y ubique la ruta del programa, luego pedira seleccionar la carpeta de los plugins. Espere que termine el patcheado. No cierre el Keygen.\n  ( Carpeta del Programa -->  C:\\Program Files\\Sony\\Vegas Pro 13.0\\)\n  ( Carpeta de Plugins ---->  C:\\Program Files (x86)\\Sony\\Shared Plug-Ins\\)\n\n- Inicie el programa, presione siguiente  y coloque el numero de serie del keygen (\"serial number\", recuerde presionar \"generate\" primero), presione siguiente, seleccione registrarme desde otro equipo, \n   \n  presione siguiente -> Siguiente y llene el formulario, acepte todo y guarde la licencia, presione siguiente.\n\n  al final pedira introducir el codigo de activación y coloque el codigo que el keygen genero (es el último código \"Activation/ Authentication Code\", seleccione todo el código).\n\n  Ya puede cerrar el keygen.\n\nListo !!!\n\n\nNota. Analisis en VirusTotal: https://www.virustotal.com/en/file/070d93a1442f2f4b0c1d248cb43eb2372900ffb83877bc7b2f392ec5713dfb08/analysis/\n      Usarlo bajo su responsabilidad.\n\n=================================================\nVisita: www.intercambiosvirtuales.org\nDudas y Sugerencias: www.intercambiosos.org\n=================================================",
+					"file": "/home/wherrera/.cache/.fr-hL3aEk/Sony.Vegas.PRO.v13.0.453.Multilenguaje.Incl.Keygen-DI/Instrucciones.txt",
+					"file_size": 1986,
+					"file_write_time": 1428456102000000,
+					"settings":
+					{
+						"buffer_size": 1951,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/wherrera/.cache/.fr-DSTyvG/dotfiles-master/clean/.conkyrc",
+				"/home/wherrera/Downloads/job_104.txt",
+				"/home/wherrera/.config/sublime-text-3/Packages/sublimetext_indentxml-master/setup.py",
+				"/home/wherrera/Documents/metrogas/notas/nuevo_veeam",
+				"/home/wherrera/Documents/metrogas/notas/sssd-wiki.txt",
+				"/home/wherrera/Documents/ISTEA/Auditoria en sistemas/clase2.txt",
+				"/home/wherrera/Documents/ISTEA/Auditoria en sistemas/clase3.txt",
+				"/home/wherrera/Documents/metrogas/procedimientos/software/TSM - windows/CMD.txt",
+				"/home/wherrera/Documents/metrogas/scripts/config-ora.sh",
+				"/home/wherrera/Documents/ISTEA/Auditoria en sistemas/clase1.txt"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 10,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"settings":
+							{
+								"buffer_size": 327,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										327,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "infraestructura virtual:",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/wherrera/Documents/metrogas/procedimientos/crear_fs_hpux",
+							"settings":
+							{
+								"buffer_size": 1119,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										390,
+										390
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"settings":
+							{
+								"buffer_size": 13,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13,
+										13
+									]
+								],
+								"settings":
+								{
+									"auto_name": "P43XnPeq+Mt",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/wherrera/Documents/metrogas/proyectos/guarda de aplicaciones/guarda_de_aplicaciones.txt",
+							"settings":
+							{
+								"buffer_size": 5623,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 4012.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/wherrera/Documents/metrogas/proyectos/guarda de aplicaciones/Log_Guarda_de_Aplicaciones.txt",
+							"settings":
+							{
+								"buffer_size": 6869,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4285,
+										4285
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1785.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/run/user/1001/gvfs/smb-share:server=cerebellum,share=wherrera/temporal/tilo.txt",
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/wherrera/Downloads/deliverystatus.txt",
+							"settings":
+							{
+								"buffer_size": 400,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/wherrera/Documents/metrogas/procedimientos/bajar_levantar_MGDAP013.txt",
+							"settings":
+							{
+								"buffer_size": 885,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/wherrera/Documents/metrogas/procedimientos/vmtools.txt",
+							"settings":
+							{
+								"buffer_size": 507,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										507,
+										475
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/wherrera/Downloads/job_31.txt",
+							"settings":
+							{
+								"buffer_size": 176963,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 816.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/wherrera/.cache/.fr-hL3aEk/Sony.Vegas.PRO.v13.0.453.Multilenguaje.Incl.Keygen-DI/Instrucciones.txt",
+							"settings":
+							{
+								"buffer_size": 1951,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 153.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,496,362,1136,842,2880,900",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

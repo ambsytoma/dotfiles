@@ -1,0 +1,12 @@
+BBDD
+GW
+Linux
+Memcached
+Oracle
+PM2
+cerificacion
+mail
+scripts
+status
+testing
+checksum_v1 = 752c20715e4c71f2a1a5f35445f1ce40

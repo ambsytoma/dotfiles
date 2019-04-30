@@ -1,0 +1,6 @@
+2019/04/29-18:24:02.634 6ac Reusing MANIFEST /home/wherrera/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/04/29-18:24:02.635 6ac Recovering log #129
+2019/04/29-18:24:02.635 6ac Reusing old log /home/wherrera/.config/google-chrome/Default/Sync Data/LevelDB/000129.log 
+2019/04/29-18:24:39.841 812 Level-0 table #133: started
+2019/04/29-18:24:39.856 812 Level-0 table #133: 140404 bytes OK
+2019/04/29-18:24:39.860 812 Delete type=0 #129

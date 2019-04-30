@@ -1,0 +1,76 @@
+#
+# These things are run when an Openbox X Session is started.
+# You may place a similar script in $HOME/.config/openbox/autostart
+# to run user-specific things.
+#
+
+# If you want to use GNOME config tools...
+#
+#if test -x /usr/lib/openbox/gnome-settings-daemon >/dev/null; then
+#  /usr/lib/openbox/gnome-settings-daemon &
+#elif which gnome-settings-daemon >/dev/null 2>&1; then
+#  gnome-settings-daemon &
+#fi
+
+# If you want to use XFCE config tools...
+#
+#xfce-mcs-manager &
+#ob-autostart -d &
+(sleep 1 && nitrogen --restore) &
+#(sleep 2 && tint2) &
+#(sleep 2 && tint2 -c /home/wherrera/.config/tint2/tint2rc_izquierda) &
+#(sleep 2 && tint2 -c /home/wherrera/.config/tint2/tint2rc_derecha) &
+#(sleep 2 && terminator) &
+/home/wherrera/scripts/monitor.sh
+(sleep 2 && urxvt ) &
+#(sleep 2 && wbar) &
+#(sleep 4 && plank) &
+#teclado
+
+setxkbmap "latam" -model evdev &
+#setxkbmap "es"
+
+
+(sleep 3 && thunar --daemon) &
+
+#transparencias con xcompmgr
+#xcompmgr &
+
+
+# configuracion de transparencias
+#compton -C -i 0.6 -e 0.6 -fF -I 0.065 -O 0.065 -D 6 -m 0.8 &
+#compton -b --backend glx --vsync opengl-swc
+#/usr/bin/compton --config /home/wherrera/.config/compton.cfg
+#xcompmgr &
+#xcompmgr -fF -I-.004 -O-.004 -D2 -cC -t-4 -l-6 -r6 &
+#(sleep 2 xcompmgr) &
+volumeicon &
+nm-applet &
+# apago el screensaver
+xset -dpms s off
+
+# seteo dos monitores:
+
+#xrandr --output DP-1-2 --mode 1440x900 --right-of DP-1-3 --noprimary --output DP-1-3 --mode 1440x900 &
+#xrandr --output DP-1-2 --mode 1440x900  --right-of DP-1-3 --output DP-1-3 --mode 1440x900 --noprimary --output eDP-1 --off &
+#xrandr --output DP-1-3 --mode 1440x900  --right-of DP-1-2 --output DP-1-2 --mode 1440x900 --noprimary --output eDP-1 --off &
+
+## configuracion de proxy (metrogas)
+#export http_proxy="http://proxy:8080"
+#export https_proxy="http://proxy:8080"
+#export ftp_proxy="http://proxy:8080"
+
+#(sleep 2 && xscreensaver) &
+#conky configuration
+#conky -c ~/.Conky/HGM-Hudnet/conkyrc_HUD &
+#/home/ambystoma/.config/conky/conky_black_pearl/startup.sh &
+
+## byobu como terminal
+#byobu
+
+## mato plank!!!
+
+#/home/ambystoma/.config/conky/conky_black_pearl/startup.sh &
+#/home/ambystoma/conkys/conkyrings/startconky.sh &
+conky -c conky -c ~/.config/conkys/conky_seamod
+/usr/bin/compton --config /home/wherrera/.config/compton.cfg &

@@ -1,0 +1,21 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "description": "Tus programas preferidos en vivo, series, películas y estrenos en un solo lugar.",
+   "externally_connectable": {
+      "matches": [ "http://localhost:*/*", "http://webclient:*/*", "http://*.minerva.net:*/*", "http://*.minervanetworks.com:*/*", "http://*.cvattv.com.ar:*/*", "http://*.cablevisionflow.com.ar:*/*", "http://*.cablevision.ar:*/*", "https://*.minerva.net:*/*", "https://*.minervanetworks.com:*/*", "https://*.cvattv.com.ar:*/*", "https://*.cablevisionflow.com.ar:*/*", "https://*.cablevision.ar:*/*" ]
+   },
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxlJ3ZL86UC+uTVpycWRds5ZJjes969sb2D3YELSpUVr789t5KkizB7cm1rHywLB/KnKHm28zmYsaOyz1VHQNZf1kHUrqiZaTUNnchA34qINLlt1kO9KfUsSKr30i8Y5CkikOYuOi9TX+8zv6JMDSfR9WUKqBEh1W1tFhFCDW10eb3Tu+dPyOLiPmzhxy81ws+QPLBBK45iBONAVbjqMRLotsFSkKrz3/Xx3fFAgAB9iPqJtXuWcg2kJWXqU6yxVX7reNlP2C/b+TTa17If3XutIVE/r/ErHHFPLCAj1WhlnU84131Gck92WzHhgZg7F16umajxq5D4gu4MtKWLA0NQIDAQAB",
+   "manifest_version": 2,
+   "name": "Cablevisión Flow",
+   "permissions": [ "nativeMessaging", "background" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

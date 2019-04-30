@@ -1,0 +1,7 @@
+# GIMP gimp-scale-tool options
+
+(background (color-rgb 1.000000 0.670588 0.862745))
+(interpolation linear)
+(constrain-scale yes)
+
+# end of gimp-scale-tool options

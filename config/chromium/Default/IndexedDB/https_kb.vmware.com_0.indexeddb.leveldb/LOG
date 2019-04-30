@@ -1,0 +1,6 @@
+2018/09/26-14:19:42.289 18626 Reusing MANIFEST /home/wherrera/.config/chromium/Default/IndexedDB/https_kb.vmware.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/09/26-14:19:42.289 18626 Recovering log #3
+2018/09/26-14:19:42.300 18626 Reusing old log /home/wherrera/.config/chromium/Default/IndexedDB/https_kb.vmware.com_0.indexeddb.leveldb/000003.log 
+2018/09/26-14:19:45.069 9523 Level-0 table #5: started
+2018/09/26-14:19:45.095 9523 Level-0 table #5: 2227599 bytes OK
+2018/09/26-14:19:45.103 9523 Delete type=0 #3

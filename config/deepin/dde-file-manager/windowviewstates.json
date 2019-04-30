@@ -1,0 +1,21 @@
+{
+    "computer:///": {
+        "iconSize": 1,
+        "sortOrder": "AscendingOrder",
+        "sortRole": 265,
+        "viewMode": "IconMode"
+    },
+    "file:///home/wherrera/Documents": {
+        "iconSize": 1,
+        "sortOrder": "DescendingOrder",
+        "sortRole": 262,
+        "viewMode": "ListMode"
+    },
+    "file:///home/wherrera/Documents/metrogas": {
+        "iconSize": 1,
+        "sortOrder": "DescendingOrder",
+        "sortRole": 262,
+        "viewMode": "ListMode"
+    }
+}
+

@@ -1,0 +1,121 @@
+{
+    "Cache": {
+        "SearchHistroy": [
+            "smb:///cerebellum/wherrera",
+            "smb:///cerebellum/",
+            "smb://cerebellum/",
+            "smb://cerebellum/wherrera",
+            "pdf",
+            "smb://mgiap005/wherrera",
+            "smb://mgiap005",
+            "smb://10.20.235.150/wherrera",
+            "smb://mgiap005.zgas.metrogas.com.ar/wherrera",
+            "ftp://supportftp2.veeam.com/",
+            "ftp://supportftp2.veeam.com",
+            "*.iso",
+            "smb://mgiap063/datos$"
+        ]
+    },
+    "FileViewState": {
+        "file:///run/user/1001/gvfs/smb-share:server=cerebellum,share=wherrera": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "file:///run/user/1001/gvfs/smb-share:server=cerebellum,share=wherrera/screenshots": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "search:?url=file:///home/wherrera/Downloads&keyword=pdf": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "smb:///cerebellum/wherrera": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "smb://cerebellum/wherrera": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "standard://documents": {
+            "iconSizeLevel": 1,
+            "sortOrder": 0,
+            "sortRole": 265,
+            "viewMode": 2
+        },
+        "standard://documents/metrogas/Documentos tecnicos": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "standard://documents/metrogas/Documentos tecnicos/Red Hat": {
+            "iconSizeLevel": 1,
+            "sortOrder": 1,
+            "sortRole": 262,
+            "viewMode": 2
+        },
+        "standard://documents/metrogas/screen": {
+            "iconSizeLevel": 1,
+            "viewMode": 2
+        },
+        "standard://downloads": {
+            "sortOrder": 0,
+            "sortRole": 262,
+            "viewMode": 2
+        },
+        "standard://downloads/certs": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "standard://home": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "standard://home/.config/sublime-text-3/Packages": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "standard://home/.kingsoft/office6/dicts": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "standard://pictures": {
+            "iconSizeLevel": 1,
+            "sortOrder": 1,
+            "sortRole": 262,
+            "viewMode": 2
+        },
+        "standard://pictures/Wallpapers": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "standard://pictures/fondos": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "standard://pictures/memes": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "trash:///": {
+            "iconSizeLevel": 1,
+            "sortOrder": 0,
+            "sortRole": 265,
+            "viewMode": 2
+        }
+    },
+    "WindowManager": {
+        "SplitterState": {
+            "sidebar": 200
+        },
+        "ViewColumnState": {
+            "259": 140,
+            "260": 140,
+            "262": 140,
+            "265": 300
+        },
+        "WindowState": {
+            "height": 600,
+            "width": 800
+        }
+    }
+}

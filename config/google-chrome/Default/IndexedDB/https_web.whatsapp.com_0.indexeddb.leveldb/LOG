@@ -1,0 +1,11 @@
+2019/04/23-20:08:53.730 42c Reusing MANIFEST /home/wherrera/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/04/23-20:08:53.730 42c Recovering log #25
+2019/04/23-20:08:53.744 42c Reusing old log /home/wherrera/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000025.log 
+2019/04/23-20:09:38.333 627 Compacting 1@1 + 2@2 files
+2019/04/23-20:09:38.467 627 Generated table #28@1: 37904 keys, 2233164 bytes
+2019/04/23-20:09:38.510 627 Generated table #29@1: 30774 keys, 1703125 bytes
+2019/04/23-20:09:38.510 627 Compacted 1@1 + 2@2 files => 3936289 bytes
+2019/04/23-20:09:38.512 627 compacted to: files[ 0 0 2 0 0 0 0 ]
+2019/04/23-20:09:38.512 627 Delete type=2 #23
+2019/04/23-20:09:38.513 627 Delete type=2 #22
+2019/04/23-20:09:38.514 627 Delete type=2 #26

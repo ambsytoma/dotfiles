@@ -1,0 +1,6 @@
+2019/04/30-09:09:22.258 5f2 Reusing MANIFEST /home/wherrera/.config/google-chrome/Default/Site Characteristics Database/MANIFEST-000001
+2019/04/30-09:09:22.261 5f2 Recovering log #3
+2019/04/30-09:09:22.276 5f2 (ignoring error) /home/wherrera/.config/google-chrome/Default/Site Characteristics Database/000003.log: dropping 9 bytes; Corruption: missing start of fragmented record(2)
+2019/04/30-09:09:22.278 5f2 (ignoring error) /home/wherrera/.config/google-chrome/Default/Site Characteristics Database/000003.log: dropping 254 bytes; Corruption: missing start of fragmented record(2)
+2019/04/30-09:09:22.282 5f2 (ignoring error) /home/wherrera/.config/google-chrome/Default/Site Characteristics Database/000003.log: dropping 7 bytes; Corruption: missing start of fragmented record(2)
+2019/04/30-09:09:22.290 5f2 Reusing old log /home/wherrera/.config/google-chrome/Default/Site Characteristics Database/000003.log 

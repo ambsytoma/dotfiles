@@ -1,0 +1,6 @@
+2019/02/28-11:56:11.987 6830 Reusing MANIFEST /home/wherrera/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/02/28-11:56:11.987 6830 Recovering log #20
+2019/02/28-11:56:12.060 6830 Reusing old log /home/wherrera/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000020.log 
+2019/02/28-12:26:38.131 13973 Level-0 table #26: started
+2019/02/28-12:26:38.156 13973 Level-0 table #26: 1406815 bytes OK
+2019/02/28-12:26:38.160 13973 Delete type=0 #20

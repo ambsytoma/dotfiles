@@ -1,0 +1,8 @@
+; empathy GtkAccelMap rc-file         -*- scheme -*-
+; this file is an automated accelerator map dump
+;
+; (gtk_accel_path "<Actions>/action_group/quit" "<Primary>q")
+; (gtk_accel_path "<Actions>/action_group/show_list" "")
+; (gtk_accel_path "<Actions>/action_group/status" "")
+; (gtk_accel_path "<Actions>/action_group/new_call" "")
+; (gtk_accel_path "<Actions>/action_group/new_message" "")

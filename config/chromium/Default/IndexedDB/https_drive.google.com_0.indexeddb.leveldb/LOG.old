@@ -1,0 +1,6 @@
+2018/09/29-10:47:58.917 3843 Reusing MANIFEST /home/wherrera/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/09/29-10:47:58.917 3843 Recovering log #50
+2018/09/29-10:47:58.930 3843 Reusing old log /home/wherrera/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000050.log 
+2018/09/29-10:47:59.652 4187 Level-0 table #54: started
+2018/09/29-10:47:59.675 4187 Level-0 table #54: 4014781 bytes OK
+2018/09/29-10:47:59.684 4187 Delete type=0 #50
